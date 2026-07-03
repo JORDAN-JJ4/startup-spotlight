@@ -46,3 +46,41 @@ Every startup profile follows a consistent format:
 ## 🌱 Why I'm Doing This
 
 I want to become more than someone who writes code.
+
+# 🚀 Startup Spotlight
+
+> Exploring one innovative startup at a time.
+
+## 🎯 Goal
+
+Learn how successful startups solve real-world problems, what technologies they use, and what lessons I can apply as a Full Stack Developer.
+
+---
+
+## 📚 Startups Covered
+
+| # | Startup | Category | Status |
+|---|---------|----------|--------|
+| 001 | Supabase | Backend as a Service | ✅ |
+| 002 | Coming Soon | - | ⏳ |
+| 003 | Coming Soon | - | ⏳ |
+| 004 | Coming Soon | - | ⏳ |
+| 005 | Coming Soon | - | ⏳ |
+
+---
+
+## 📌 What You'll Find
+
+Each spotlight includes:
+- 🏢 Company Overview
+- 🎯 Problem It Solves
+- 🛠️ Core Products
+- 💰 Business Model
+- 📈 Growth Story
+- 💡 Key Takeaways
+- 👨‍💻 My Personal Notes
+- 📚 Useful Resources
+
+---
+
+⭐ New startup added regularly.
