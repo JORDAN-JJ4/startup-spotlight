@@ -84,3 +84,9 @@ Each spotlight includes:
 ---
 
 ⭐ New startup added regularly.
+
+## 📈 Progress
+
+Startups Covered: **3 / 100**
+
+████░░░░░░░░░░░░░░ 3%
