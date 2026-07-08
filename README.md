@@ -87,6 +87,6 @@ Each spotlight includes:
 
 ## 📈 Progress
 
-Startups Covered: **3 / 100**
+SCompleted: 4 / 100
 
-████░░░░░░░░░░░░░░ 3%
+████░░░░░░░░░░░░░░░░ 4%
