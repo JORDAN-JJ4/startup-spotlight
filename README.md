@@ -87,6 +87,6 @@ Each spotlight includes:
 
 ## 📈 Progress
 
-SCompleted: 4 / 100
+SCompleted: 5 / 100
 
-████░░░░░░░░░░░░░░░░ 4%
+█████░░░░░░░░░░░░░░░ 5%
