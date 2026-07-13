@@ -27,21 +27,17 @@ My goal is to study one startup at a time and answer questions like:
 
 ---
 
-## 🧩 What Each Spotlight Includes
+## 🎓 Skills I'm Building
 
-Every startup profile follows a consistent format:
+Through this repository, I'm improving my understanding of:
 
-- 📌 Company Overview
-- 🧠 Problem Statement
-- 🚀 Products & Features
-- 💻 Technology Stack
-- 💰 Business Model
-- 📈 Growth Story
-- ⭐ Interesting Facts
-- 🎓 What I Learned
-- 💭 My Personal Takeaway
-
----
+- Product Thinking
+- Software Engineering
+- Cloud Computing
+- Artificial Intelligence
+- Startup Ecosystems
+- Technical Writing
+- Research Skills
 
 ## 🌱 Why I'm Doing This
 
@@ -57,15 +53,16 @@ Learn how successful startups solve real-world problems, what technologies they 
 
 ---
 
-## 📚 Startups Covered
+## 📚 Startup Collection
 
-| # | Startup | Category | Status |
-|---|---------|----------|--------|
-| 001 | Supabase | Backend as a Service | ✅ |
-| 002 | Coming Soon | - | ⏳ |
-| 003 | Coming Soon | - | ⏳ |
-| 004 | Coming Soon | - | ⏳ |
-| 005 | Coming Soon | - | ⏳ |
+| # | Startup | Category | Country |
+|---|----------|----------|---------|
+| 001 | Supabase | Backend as a Service | 🇺🇸 USA |
+| 002 | Vercel | Cloud Platform | 🇺🇸 USA |
+| 003 | Cursor | AI Developer Tool | 🇺🇸 USA |
+| 004 | Perplexity AI | AI Search | 🇺🇸 USA |
+| 005 | Inshorts | News Technology | 🇮🇳 India |
+| 006 | Razorpay | FinTech | 🇮🇳 India |
 
 ---
 
@@ -86,7 +83,6 @@ Each spotlight includes:
 ⭐ New startup added regularly.
 
 ## 📈 Progress
+Completed: 6 / 100
 
-SCompleted: 5 / 100
-
-█████░░░░░░░░░░░░░░░ 5%
+██████░░░░░░░░░░░░░░ 6%
