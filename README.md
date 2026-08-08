@@ -83,6 +83,6 @@ Each spotlight includes:
 ⭐ New startup added regularly.
 
 ## 📈 Progress
-Completed: 12 / 100
+Completed: 13 / 100
 
-██████░░░░░░░░░░░░░░ 12%
+██████░░░░░░░░░░░░░░ 13%
